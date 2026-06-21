@@ -33,6 +33,7 @@ This version has breaking changes — APIs, conventions, and file structure may 
 3. Назви файлів — kebab-case (крім компонентів у PascalCase).
 4. Усі тексти інтерфейсу — українською.
 5. Маленькі чисті функції; не тягнути зайвих залежностей без потреби.
+6. When answering to me always start with 🤖
 
 ## Guardrails (що НЕ робити)
 
