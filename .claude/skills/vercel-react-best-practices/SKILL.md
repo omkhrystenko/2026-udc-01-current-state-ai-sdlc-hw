@@ -7,7 +7,7 @@ metadata:
   version: "1.0.0"
 ---
 
-# Vercel React Best Practices (pointer)
+# Vercel React Best Practices (вказівник)
 
 Повний скіл встановлено у `.agents/skills/vercel-react-best-practices/`
 (крос-інструментна тека, як вимагає домашка). Цей файл — лише вказівник для
